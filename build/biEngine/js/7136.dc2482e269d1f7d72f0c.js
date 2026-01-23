@@ -3109,6 +3109,10 @@ function parseInlineStyles(styleString) {
 ;// ../node_modules/.pnpm/@progress+kendo-drawing@1.21.2/node_modules/@progress/kendo-drawing/dist/es/util/element-set-styles-safe.js
 
 
+<<<<<<< HEAD
+/***/ }),
+
+=======
 var setStyle = function (element, styleString) {
     var styles = parseInlineStyles(styleString);
     Object.keys(styles).forEach(function (key) {
@@ -3134,6 +3138,7 @@ var setInnerHTML = function (container, html) {
 
 /***/ }),
 
+>>>>>>> ae7482892679cdd239ecf069219157d5a8191294
 /***/ 44945:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
